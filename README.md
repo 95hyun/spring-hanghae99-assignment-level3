@@ -12,7 +12,7 @@
 - #### 📌 [API 명세서 / Use Case Diagram / Entity Relationship Diagram / 기능 구현 테스트 결과]
 |API 명세서(현민영)|
 |:---:|
-|![image](https://github.com/95hyun/spring-hanghae99-assignment-level3/assets/151743721/53b710ca-b5b4-425c-b8d9-4b05e5328084)|
-- 현민영: [Use Case Diagram](https://github.com/95hyun/spring-hanghae99-assignment-level3/assets/151743721/41c333ae-0598-4863-bac6-c98af682b9d6) / [Entity Relationship Diagram](https://github.com/95hyun/spring-hanghae99-assignment-level3/assets/151743721/c10286a4-22fe-4274-9d84-7fb7cdaf7c15) / [기능 구현 테스트 결과](https://github.com/95hyun/spring-hanghae99-assignment-level3/files/13827106/default.pdf)
+|![image](https://github.com/95hyun/spring-hanghae99-auth/assets/151743721/594c1c71-d9c9-4e6b-bc2f-2a6af2b7aa7f)|
+- 현민영: [Use Case Diagram](https://github.com/95hyun/spring-hanghae99-auth/assets/151743721/972a2bc9-e910-4a2f-8302-d4fa3f5f8ff1) / [Entity Relationship Diagram](https://github.com/95hyun/spring-hanghae99-auth/assets/151743721/5f564f70-2fa2-4f60-b55d-c6d22e11ccb3) / [기능 구현 테스트 결과](https://github.com/95hyun/spring-hanghae99-auth/files/13827889/default.pdf)
 ##
 #### ReadMe 양식 참고 [지수님 GitHub](https://github.com/jisulee-shsf/spring-hanghae99-assignment-level2)
